@@ -1,0 +1,6 @@
+Mi IP privada es: 10.0.2.15
+
+Mi dirección MAC es: 08:00:27:ae:e3:07
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+Si, la IP privada es diferente a la de mi máquina host.
