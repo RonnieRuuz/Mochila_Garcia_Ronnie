@@ -1,0 +1,13 @@
+.Para esta entrega 5 utilice la maquina virtual online
+.Verifique la instalacion de Git en la MV
+.Clone el repositorio de mi mochila de GitHub mediante el comando "git clone + URL"
+.Cree la rama "Entrega5" con "git branch Entrega5"
+.Hice switch a la nueva rama con el comando "git checkout Entrega5"
+.Hice este archivo txt mediante el comando touch, y luego lo edite con el comando "nano"
+.Posteriormente usare el comando "git add ."
+.Agregare mis credenciales de github mediante git config user.name y user.email, asi como su respectivo tocken
+.Usare el comando commit -m
+.Por ultimo hare un git push origin Entrega5
+
+..Entrega 5 Finalizada..
+
